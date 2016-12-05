@@ -5,3 +5,4 @@ Git tracks changes of file
 But my stupid boss still prefer SVN
 for stage
 for workspace
+problem solved

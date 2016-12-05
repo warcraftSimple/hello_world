@@ -7,3 +7,5 @@ for stage
 for workspace
 sleep early today
 problem solved, this is from branch dev
+The air ticket for National Day is sold out. I'll let you know if anyone whom canceled his reservation
+I should have booked in advance
